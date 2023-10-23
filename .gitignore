@@ -1,0 +1,10 @@
+*.cam
+Project Logs for */*
+Project Outputs for */*
+History/*
+*.htm
+
+*~
+*swp
+
+__Previews/*
