@@ -1,0 +1,3 @@
+[submodule "altium-custom-libs"]
+	path = altium-custom-libs
+	url = http://dapd.ddns.net:3636/moseschanx/altium-custom-libs
